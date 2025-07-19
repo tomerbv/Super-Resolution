@@ -39,26 +39,3 @@ You can install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📂 File Structure
-
-```
-.
-├── Super Resolution Notebook.ipynb  # Main notebook with code and results
-├── README.md                        # Project description
-└── results/                         # Output images from the model
-```
-
-## 📸 Example Outputs
-
-Below are a few example results from the super-resolution model:
-
-![Result 1](results/final_result_1.png)  
-![Result 2](results/final_result_2.png)  
-![Result 3](results/final_result_3.png)  
-![Result 4](results/final_result_4.png)  
-![Result 5](results/final_result_5.png)  
-
-## 📚 License
-
-This project was originally created for educational purposes. If you use it, please give credit. License: MIT.
