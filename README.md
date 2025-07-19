@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook implementing and evaluating a deep l
 
 ## 📘 Project Overview
 
-This was an academic assignment completed as part of a university course on deep learning and computer vision. The goal was to apply state-of-the-art techniques to upscale images and compare model performance using quantitative and qualitative metrics.
+This was an academic assignment completed as part of a university course on deep learning and computer vision.
 
 ## 🧠 Techniques Used
 
